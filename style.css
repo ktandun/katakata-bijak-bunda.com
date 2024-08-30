@@ -63,6 +63,7 @@ body {
 
 body > div {
   height: 100vh;
+  background-color: lightgrey;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -75,7 +76,7 @@ body > div {
 }
 
 .quote {
-  max-width: min(50%, 30rem);
+  max-width: min(70%, 30rem);
   position: relative;
 }
 
